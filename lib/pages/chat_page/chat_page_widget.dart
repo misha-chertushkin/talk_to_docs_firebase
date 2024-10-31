@@ -748,7 +748,7 @@ class _ChatPageWidgetState extends State<ChatPageWidget> {
                                                 CrossAxisAlignment.end,
                                             children: [
                                               Text(
-                                                'you can now Talk2Docs!',
+                                                'you can now Talk2Bugs!',
                                                 style: FlutterFlowTheme.of(
                                                         context)
                                                     .displayMedium
