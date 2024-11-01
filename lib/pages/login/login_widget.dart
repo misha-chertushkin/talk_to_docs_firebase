@@ -213,7 +213,7 @@ class _LoginWidgetState extends State<LoginWidget>
                             padding: EdgeInsetsDirectional.fromSTEB(
                                 0.0, 12.0, 0.0, 0.0),
                             child: Text(
-                              'Talk 2 Docs!',
+                              'Talk 2 Bugs!',
                               style: FlutterFlowTheme.of(context)
                                   .headlineSmall
                                   .override(
